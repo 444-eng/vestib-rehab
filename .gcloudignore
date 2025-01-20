@@ -1,0 +1,6 @@
+
+# Ignore unnecessary files for Google Cloud deployment
+node_modules
+dist
+*.log
+.git
